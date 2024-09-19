@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! I'm Bruno! 👋
 
 <!--
 **aguiarsilva/aguiarsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me: ☘️
+- I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
+- 🌱 I’m currently learning C and C++.
+
