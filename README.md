@@ -1,4 +1,4 @@
-# Hello! I'm Bruno! 👋
+# Hello! I'm Brunno! 👋
 
 <!--
 **aguiarsilva/aguiarsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
