@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 <div align="center">
-<a href="https://www.linkedin.com/in/aguairsilva">
+<a href="https://www.linkedin.com/in/daguiarsilva">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:aguiarsilva@gmail.com">
