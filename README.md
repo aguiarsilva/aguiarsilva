@@ -1,4 +1,4 @@
-[<img align = "center">![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</img>]
+<img align = "center">![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</img>
 
 # Hello! I'm Brunno! 👋
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 
+![](https://komarev.com/ghpvc/?username=aguiarsilva&abbreviated=true)
