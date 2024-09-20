@@ -1,4 +1,4 @@
-<img align = center>![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</img>
+[<img align = "center">![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</img>]
 
 # Hello! I'm Brunno! 👋
 
@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -20,4 +19,7 @@ Here are some ideas to get you started:
 ## About Me: ☘️
 - I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
 - 🌱 I’m currently learning C and C++.
+
+## 📫 How to reach me:
+[<img align="left" alt="aguiarsilva" | LinkedIn "width=30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
