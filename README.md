@@ -1,4 +1,4 @@
-![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)
+<p align = center>![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</p>
 
 # Hello! I'm Brunno! 👋
 
