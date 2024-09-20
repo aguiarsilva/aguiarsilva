@@ -1,4 +1,4 @@
-![Gplo](https://github.com/user-attachments/assets/2114c80f-7110-4716-bed0-e0dc7e944bb6)
+![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)
 
 # Hello! I'm Brunno! 👋
 
