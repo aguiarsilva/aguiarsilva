@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C and C++.
 
 ## 📫 How to reach me:
-[<img align="left" alt="aguiarsilva" | LinkedIn "width=30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
 
