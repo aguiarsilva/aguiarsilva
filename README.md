@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
 - 🌱 I’m currently learning C and C++.
 
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,linux)](https://skillicons.dev)
+
 ## 📫 How to reach me:
 
 <div align="center">
