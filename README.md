@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C and C++.
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,python)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
