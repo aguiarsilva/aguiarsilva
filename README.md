@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me: ☘️
 - I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
-- 🌱 I’m currently learning C and C++.
+- 🌱 I’m currently learning C++, React, TypeScript, NodeJS(Fastify).
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,linux,python)](https://skillicons.dev)
