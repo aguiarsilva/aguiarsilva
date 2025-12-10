@@ -1,6 +1,6 @@
 <!--<img align = "center">![Gplo](https://github.com/user-attachments/assets/6c750ba9-5414-4204-b258-1231dcb2000b)</img>-->
 
-# Hello! I'm Brunno! 👋
+# Hello! I'm Bruno! 👋
 
 <!--
 **aguiarsilva/aguiarsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
