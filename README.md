@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## About Me: ☘️
 - I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
 - 🌱 I’m currently learning React, AWS.
+- 🔭 I’m currently working on a production quality logging library in C++.
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,html,css,linux,python,docker,grafana,prometheus,elasticsearch)](https://skillicons.dev)
