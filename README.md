@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a production quality logging library in C++.
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,html,css,linux,python,docker,grafana,prometheus,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,html,css,linux,python,docker,grafana,prometheus,elasticsearch,cmake)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
