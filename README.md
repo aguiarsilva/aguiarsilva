@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me: ☘️
 - I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
-- 🌱 I’m currently learning React, AWS, CMake.
+- 🌱 I’m currently learning Python.
 - 🔭 I’m currently working on a production quality logging library in C++.
 
 ## Languages and Tools
