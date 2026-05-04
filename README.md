@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me: ☘️
-- I am a Software Engineering student at [42 Wolfsburg](https://42wolfsburg.de/).
+- I am a Software Engineering student at [42 Berlin](https://42berlin.de/).
 - 🌱 I’m currently learning Python.
 - 🔭 I’m currently working on a Legal AI Agent in Python - React/Typescript.
 
