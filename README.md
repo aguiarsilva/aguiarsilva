@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me: ☘️
 - I am a Software Engineering Advanced student at [42 Berlin](https://42berlin.de/).
-- 🌱 I’m currently learning Embedded C/C++.
+- 🌱 I’m currently learning Go.
 - 🔭 I’m currently working on a Legal AI Agent in Python - React/Typescript.
 - 👯 If you have a project and need help developing it I am interested in hearing about it...
 
